@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <Value>431</Value>
+    <Rounds>20</Rounds>
+  </Score>
+  <Score>
+    <Value>316</Value>
+    <Rounds>18</Rounds>
+  </Score>
+  <Score>
+    <Value>153</Value>
+    <Rounds>13</Rounds>
+  </Score>
+  <Score>
+    <Value>20</Value>
+    <Rounds>7</Rounds>
+  </Score>
+  <Score>
+    <Value>20</Value>
+    <Rounds>7</Rounds>
+  </Score>
+</ArrayOfScore>
