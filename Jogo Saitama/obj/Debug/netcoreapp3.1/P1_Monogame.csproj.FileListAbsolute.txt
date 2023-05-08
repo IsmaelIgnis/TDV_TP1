@@ -1,0 +1,5 @@
+D:\Universidade__OS(D.)\EDJD\1ºAno\2ºSemestre\Técnicas de Desenvolvimento de Videojogos\TDV_TP1\Jogo Saitama\obj\Debug\netcoreapp3.1\P1_Monogame.csproj.AssemblyReference.cache
+D:\Universidade__OS(D.)\EDJD\1ºAno\2ºSemestre\Técnicas de Desenvolvimento de Videojogos\TDV_TP1\Jogo Saitama\obj\Debug\netcoreapp3.1\P1_Monogame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidade__OS(D.)\EDJD\1ºAno\2ºSemestre\Técnicas de Desenvolvimento de Videojogos\TDV_TP1\Jogo Saitama\obj\Debug\netcoreapp3.1\P1_Monogame.AssemblyInfoInputs.cache
+D:\Universidade__OS(D.)\EDJD\1ºAno\2ºSemestre\Técnicas de Desenvolvimento de Videojogos\TDV_TP1\Jogo Saitama\obj\Debug\netcoreapp3.1\P1_Monogame.AssemblyInfo.cs
+D:\Universidade__OS(D.)\EDJD\1ºAno\2ºSemestre\Técnicas de Desenvolvimento de Videojogos\TDV_TP1\Jogo Saitama\obj\Debug\netcoreapp3.1\P1_Monogame.csproj.CoreCompileInputs.cache
